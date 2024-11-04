@@ -9,8 +9,6 @@ Proje katmanlı mimari ile tasarlanmış olup, kullanıcı kimlik doğrulaması,
 - [Kurulum](#kurulum)
 - [Proje Yapısı](#proje-yapısı)
 - [Kullanım](#kullanım)
-- [Katkıda Bulunanlar](#katkıda-bulunanlar)
-- [Lisans](#lisans)
 
 ## Özellikler
 - **Kullanıcı Kimlik Doğrulama ve Rol Yönetimi:** Kullanıcılar "Customer" (Alıcı) veya "Seller" (Satıcı) rolleriyle kayıt olabilir.

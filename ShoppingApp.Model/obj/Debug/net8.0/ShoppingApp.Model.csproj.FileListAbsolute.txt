@@ -1,0 +1,14 @@
+C:\Users\talha\source\repos\ShoppingApp\ShoppingApp.Model\bin\Debug\net8.0\ShoppingApp.Model.deps.json
+C:\Users\talha\source\repos\ShoppingApp\ShoppingApp.Model\bin\Debug\net8.0\ShoppingApp.Model.runtimeconfig.json
+C:\Users\talha\source\repos\ShoppingApp\ShoppingApp.Model\bin\Debug\net8.0\ShoppingApp.Model.dll
+C:\Users\talha\source\repos\ShoppingApp\ShoppingApp.Model\bin\Debug\net8.0\ShoppingApp.Model.pdb
+C:\Users\talha\source\repos\ShoppingApp\ShoppingApp.Model\obj\Debug\net8.0\ShoppingApp.Model.csproj.AssemblyReference.cache
+C:\Users\talha\source\repos\ShoppingApp\ShoppingApp.Model\obj\Debug\net8.0\ShoppingApp.Model.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\talha\source\repos\ShoppingApp\ShoppingApp.Model\obj\Debug\net8.0\ShoppingApp.Model.AssemblyInfoInputs.cache
+C:\Users\talha\source\repos\ShoppingApp\ShoppingApp.Model\obj\Debug\net8.0\ShoppingApp.Model.AssemblyInfo.cs
+C:\Users\talha\source\repos\ShoppingApp\ShoppingApp.Model\obj\Debug\net8.0\ShoppingApp.Model.csproj.CoreCompileInputs.cache
+C:\Users\talha\source\repos\ShoppingApp\ShoppingApp.Model\obj\Debug\net8.0\ShoppingApp.Model.dll
+C:\Users\talha\source\repos\ShoppingApp\ShoppingApp.Model\obj\Debug\net8.0\refint\ShoppingApp.Model.dll
+C:\Users\talha\source\repos\ShoppingApp\ShoppingApp.Model\obj\Debug\net8.0\ShoppingApp.Model.pdb
+C:\Users\talha\source\repos\ShoppingApp\ShoppingApp.Model\obj\Debug\net8.0\ShoppingApp.Model.genruntimeconfig.cache
+C:\Users\talha\source\repos\ShoppingApp\ShoppingApp.Model\obj\Debug\net8.0\ref\ShoppingApp.Model.dll

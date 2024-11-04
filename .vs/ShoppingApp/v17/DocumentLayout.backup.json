@@ -1,0 +1,62 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\talha\\source\\repos\\ShoppingApp\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{B14F9509-F13B-4077-B904-79D717446D4B}|ShoppingApp.Shared\\ShoppingApp.Shared.csproj|c:\\users\\talha\\source\\repos\\shoppingapp\\shoppingapp.shared\\dtos\\readdtos\\cartitemreaddto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B14F9509-F13B-4077-B904-79D717446D4B}|ShoppingApp.Shared\\ShoppingApp.Shared.csproj|solutionrelative:shoppingapp.shared\\dtos\\readdtos\\cartitemreaddto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A362D3DA-9305-49AA-AF0B-2CB1CE3788C3}|ShoppingApp.Data\\ShoppingApp.Data.csproj|c:\\users\\talha\\source\\repos\\shoppingapp\\shoppingapp.data\\data\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A362D3DA-9305-49AA-AF0B-2CB1CE3788C3}|ShoppingApp.Data\\ShoppingApp.Data.csproj|solutionrelative:shoppingapp.data\\data\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "CartItemReadDto.cs",
+              "DocumentMoniker": "C:\\Users\\talha\\source\\repos\\ShoppingApp\\ShoppingApp.Shared\\Dtos\\ReadDtos\\CartItemReadDto.cs",
+              "RelativeDocumentMoniker": "ShoppingApp.Shared\\Dtos\\ReadDtos\\CartItemReadDto.cs",
+              "ToolTip": "C:\\Users\\talha\\source\\repos\\ShoppingApp\\ShoppingApp.Shared\\Dtos\\ReadDtos\\CartItemReadDto.cs*",
+              "RelativeToolTip": "ShoppingApp.Shared\\Dtos\\ReadDtos\\CartItemReadDto.cs*",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAAvAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-04T11:26:43.951Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "AppDbContext.cs",
+              "DocumentMoniker": "C:\\Users\\talha\\source\\repos\\ShoppingApp\\ShoppingApp.Data\\Data\\AppDbContext.cs",
+              "RelativeDocumentMoniker": "ShoppingApp.Data\\Data\\AppDbContext.cs",
+              "ToolTip": "C:\\Users\\talha\\source\\repos\\ShoppingApp\\ShoppingApp.Data\\Data\\AppDbContext.cs*",
+              "RelativeToolTip": "ShoppingApp.Data\\Data\\AppDbContext.cs*",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAACUAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-04T11:24:55.853Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:3:0:{e8b06f52-6d01-11d2-aa7d-00c04f990343}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:2:0:{e8b06f52-6d01-11d2-aa7d-00c04f990343}"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,17 @@
+C:\Users\talha\source\repos\ShoppingApp\ShoppingApp.Shared\bin\Debug\net8.0\ShoppingApp.Shared.deps.json
+C:\Users\talha\source\repos\ShoppingApp\ShoppingApp.Shared\bin\Debug\net8.0\ShoppingApp.Shared.runtimeconfig.json
+C:\Users\talha\source\repos\ShoppingApp\ShoppingApp.Shared\bin\Debug\net8.0\ShoppingApp.Shared.dll
+C:\Users\talha\source\repos\ShoppingApp\ShoppingApp.Shared\bin\Debug\net8.0\ShoppingApp.Shared.pdb
+C:\Users\talha\source\repos\ShoppingApp\ShoppingApp.Shared\bin\Debug\net8.0\ShoppingApp.Model.dll
+C:\Users\talha\source\repos\ShoppingApp\ShoppingApp.Shared\bin\Debug\net8.0\ShoppingApp.Model.pdb
+C:\Users\talha\source\repos\ShoppingApp\ShoppingApp.Shared\obj\Debug\net8.0\ShoppingApp.Shared.csproj.AssemblyReference.cache
+C:\Users\talha\source\repos\ShoppingApp\ShoppingApp.Shared\obj\Debug\net8.0\ShoppingApp.Shared.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\talha\source\repos\ShoppingApp\ShoppingApp.Shared\obj\Debug\net8.0\ShoppingApp.Shared.AssemblyInfoInputs.cache
+C:\Users\talha\source\repos\ShoppingApp\ShoppingApp.Shared\obj\Debug\net8.0\ShoppingApp.Shared.AssemblyInfo.cs
+C:\Users\talha\source\repos\ShoppingApp\ShoppingApp.Shared\obj\Debug\net8.0\ShoppingApp.Shared.csproj.CoreCompileInputs.cache
+C:\Users\talha\source\repos\ShoppingApp\ShoppingApp.Shared\obj\Debug\net8.0\Shopping.78989FAD.Up2Date
+C:\Users\talha\source\repos\ShoppingApp\ShoppingApp.Shared\obj\Debug\net8.0\ShoppingApp.Shared.dll
+C:\Users\talha\source\repos\ShoppingApp\ShoppingApp.Shared\obj\Debug\net8.0\refint\ShoppingApp.Shared.dll
+C:\Users\talha\source\repos\ShoppingApp\ShoppingApp.Shared\obj\Debug\net8.0\ShoppingApp.Shared.pdb
+C:\Users\talha\source\repos\ShoppingApp\ShoppingApp.Shared\obj\Debug\net8.0\ShoppingApp.Shared.genruntimeconfig.cache
+C:\Users\talha\source\repos\ShoppingApp\ShoppingApp.Shared\obj\Debug\net8.0\ref\ShoppingApp.Shared.dll

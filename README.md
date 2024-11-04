@@ -18,7 +18,7 @@ Proje katmanlı mimari ile tasarlanmış olup, kullanıcı kimlik doğrulaması,
 - **Dependency Injection (DI) ve Katmanlı Mimari:** Kod modüler ve ölçeklenebilir olacak şekilde tasarlanmıştır.
 
 ## Kullanılan Teknolojiler
-- [.NET 7](https://dotnet.microsoft.com/download/dotnet/8.0)
+- [.NET 8](https://dotnet.microsoft.com/download/dotnet/8.0)
 - [ASP.NET Core Web API](https://docs.microsoft.com/en-us/aspnet/core/web-api/)
 - [Entity Framework Core](https://docs.microsoft.com/en-us/ef/core/)
 - [AutoMapper](https://automapper.org/) (DTO eşlemeleri için)
